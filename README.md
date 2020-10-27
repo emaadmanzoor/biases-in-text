@@ -1,4 +1,4 @@
-# Replication Code and Data for "Uncovering Latent Biases in Text"
+# Replication Code and Data for "Uncovering Latent Biases in Text: Method and Application to Peer Review"
 
 This is the replication code and data for the paper:
 >  **Uncovering Latent Biases in Text: Method and Application to Peer Review.**
